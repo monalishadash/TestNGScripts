@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+    <groups>
+      <group name="Group1">
+        <method signature="PrintName.displayBUName()[pri:0, instance:example.PrintName@1726ac1]" name="displayBUName" class="example.PrintName"/>
+        <method signature="PrintName.displayName()[pri:0, instance:example.PrintName@1726ac1]" name="displayName" class="example.PrintName"/>
+      </group> <!-- Group1 -->
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+      <class name="example.PrintName">
+        <test-method status="PASS" signature="beforeSuiteMethod()[pri:0, instance:example.PrintName@1726ac1]" name="beforeSuiteMethod" is-config="true" duration-ms="16" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteMethod -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:example.PrintName@1726ac1]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.PrintName@1726ac1]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClassMethod()[pri:0, instance:example.PrintName@1726ac1]" name="beforeClassMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.PrintName@1726ac1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeGroupMethod()[pri:0, instance:example.PrintName@1726ac1]" name="beforeGroupMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeGroupMethod -->
+        <test-method status="PASS" signature="displayBUName()[pri:0, instance:example.PrintName@1726ac1]" name="displayBUName" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayBUName -->
+        <test-method status="PASS" signature="displayName()[pri:0, instance:example.PrintName@1726ac1]" name="displayName" duration-ms="15" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayName -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.PrintName@1726ac1]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClassMethod()[pri:0, instance:example.PrintName@1726ac1]" name="afterClassMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.PrintName@1726ac1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:example.PrintName@1726ac1]" name="afterTestMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="afterGroupMethod()[pri:0, instance:example.PrintName@1726ac1]" name="afterGroupMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterGroupMethod -->
+        <test-method status="PASS" signature="afterSuiteMethod()[pri:0, instance:example.PrintName@1726ac1]" name="afterSuiteMethod" is-config="true" duration-ms="0" started-at="2014-09-16T07:15:21Z" finished-at="2014-09-16T07:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+      </class> <!-- example.PrintName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
